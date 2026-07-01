@@ -55,3 +55,6 @@ This repository contains the Python programming tasks completed as part of the C
 - `portfolio.txt`
 - `basic_chatbot.py`
 
+## Author
+
+Athulya
